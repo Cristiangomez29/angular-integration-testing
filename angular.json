@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angualar-integration-testing"
+    }
+  },
+  "defaultProject": "angualar-integration-testing",
+  "cli": {
+    "analytics": "cf7ab797-f0c4-4b50-8502-36fe4ee77126"
+  }
 }
